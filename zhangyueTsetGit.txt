@@ -1,3 +1,9 @@
 git的txt文件
 Git is a version control system.
 Git is free software.
+
+2.0
+修改git仓库里面的txt文件
+
+3.0
+测试版本信息
